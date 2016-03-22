@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/andrewogren/Downloads/javacv-bin 3/javacpp.jar"/>
+	<classpathentry kind="lib" path="/Users/andrewogren/Downloads/javacv-bin 3/javacv.jar"/>
+	<classpathentry kind="lib" path="/Users/andrewogren/Downloads/javacv-bin 3/ffmpeg-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="/Users/andrewogren/Downloads/javacv-bin 3/opencv-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="/Users/andrewogren/Downloads/javacv-bin 3/opencv.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
